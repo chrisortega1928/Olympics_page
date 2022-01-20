@@ -1,42 +1,48 @@
 # Team2VenuProject
 
-Team Leader: Cenk Cafer
+Team Leaders: Syeda, Ege, Hilal
 
-Members: 
-Olviia-Nikol Andriievska,
-Shirley Ni,
-Jason Orr,
-Jayzy Padilla, and 
-Simranjeet Singh
+Robert
+Md
+Christopher
+Michael
+Gabriel
+Kirana
+Nanami
+Cenk
+Jeryel
+Humayun
+Chelsea
+Ankit
 
 
 Features Included:
 
-Featured(Jayzy):
+Featured(Gabriel):
 - Picture Carrousel (Bootcamp Pics)
 - Index
 - TimeUntil
 
 
 
-Header_Footer Folder(Shirley):
+Header_Footer Folder(Nanami):
 - header: Top Navbar 
 - footer: Contact Us 
 - Side Drawer
 
-Highlights(Cenk):
+Highlights(Jeryel):
 - Projects We've Done
 - Description: about JJAY TTP 
 - change goal date
 - Genghis quotes
 
-Pricing(internships instead; Jason):
+Pricing(internships instead; Md):
 - copy JJAY internships from TTP website
 
-Location(Simran):
+Location(Humayun):
 - Google API Location: John Jay 
 
-venueNfo(Olviia):
+venueNfo(Chelsea,Ankit):
 - TTP staff (pictures/name)
 
 Utils: tbd
