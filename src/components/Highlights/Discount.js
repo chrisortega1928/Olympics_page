@@ -44,6 +44,7 @@ class Discount extends Component {
                         </Slide>
                             <Fade delay={500}>
                                 <blockquote>
+                                    {/* In this following block of code, we write the quotes for the website  */}
                                 <p>"I don't run away from a challenge because I am afraid. Instead, I run toward it because the only way to escape fear is to trample it beneath your feet." -- Nadia Comaneci, Romania, gymnastics</p>
                                     <p>"I hated every minute of training, but I said, "Don't quit. Suffer now and live the rest of your life as a champion." -- Muhammad Ali, USA, boxing</p>
                                     <p>"Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it." -- Michael Jordan, USA, basketball</p>
