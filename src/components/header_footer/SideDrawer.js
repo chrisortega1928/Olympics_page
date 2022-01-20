@@ -24,20 +24,20 @@ const SideDrawer = (props) => {
                     Event starts in
                 </ListItem>
 
-                <ListItem button onClick={() => scrollToElement ('venuenfo')}>
-                    Staff
+                <ListItem button onClick={() => scrollToElement ('Sports')}>
+                    Schedule
                 </ListItem>
 
                 <ListItem button onClick={() => scrollToElement ('highlights')}>
                     Highlights
                 </ListItem>
-
-                <ListItem button onClick={() => scrollToElement ('pricing')}>
-                    Internships
-                </ListItem>
                 
                 <ListItem button onClick={() => scrollToElement ('location')}>
                     Location
+                </ListItem>
+
+                <ListItem button onClick={() => scrollToElement ('SocialMedia')}>
+                    Social Media
                 </ListItem>
             </List>
         </Drawer>
