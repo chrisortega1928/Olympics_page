@@ -1,11 +1,6 @@
 # Team2VenuProject
 
-Team Leader: Cenk Cafer
-
-Members: 
-Syeda
-Ege
-Hilal
+Team Leaders: Syeda, Ege, Hilal
 
 Robert
 Md
