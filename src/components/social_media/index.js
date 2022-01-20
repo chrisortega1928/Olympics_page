@@ -8,7 +8,7 @@ const SocialMedia= () => {
     return (
         <nav id='socialmedia_icon'>
         
-        //all the social media links
+        
         
             <p>Follow olympics on </p>
             <a class='fa fa-facebook' href="https://www.facebook.com/olympics/" target="_blank" ></a>    

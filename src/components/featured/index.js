@@ -11,7 +11,7 @@ const Featured = () => {
 
             <div className="event_name">
                 <div className="wrapper">
-                    The End of the Beginning
+                    2022 Winter Olympics Beijing
                 </div>
             </div>
 
