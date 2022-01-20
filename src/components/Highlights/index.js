@@ -1,5 +1,5 @@
 import React from 'react';
-import ColumnCards from './ColumnCards';
+/* import ColumnCards from './ColumnCards'; */
 import Description from './Description';
 import Discount from './Discount';
 
